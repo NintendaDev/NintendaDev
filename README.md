@@ -1,7 +1,7 @@
 <h1 align="center">Dmitrii Vasiliev</h1>
 
 <p align="center">
-  Unity Game Developer | Python Developer
+  Unity Game Developer
 </p>
 
 :video_game: I've been developing games with Unity since 2022
