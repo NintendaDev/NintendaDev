@@ -23,7 +23,7 @@
 
 | Name | Description |
 |----------|--------------------|
-| [Zenject](https://github.com/modesttree/Zenject) | Dependency Injection Framework |
+| [Zenject](https://github.com/modesttree/Zenject) | Classic Dependency Injection Framework |
 | [VContainer](https://vcontainer.hadashikick.jp) | Lightweight DI container for Unity |
 | [UniTask](https://github.com/Cysharp/UniTask) | Efficient async/await for Unity |
 | [R3](https://github.com/Cysharp/R3) | Reactive extensions by Cysharp |
