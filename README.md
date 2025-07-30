@@ -29,6 +29,8 @@
 | [R3](https://github.com/Cysharp/R3) | Reactive extensions by Cysharp |
 | [ZLinq](https://github.com/Cysharp/ZLinq) | Zero-allocation LINQ |
 | [Addressables](https://docs.unity3d.com/6000.0/Documentation/Manual/com.unity.addressables.html) | Unity asset management system |
+| [Unity's DOTS](https://unity.com/dots) | Unity’s Data-Oriented Technology Stack |
+| [Atomic Framework](https://github.com/StarKRE22/Atomic) | Reactive procedural framework for developing games in C# and Unity |
 | [Photon Fusion 2](https://www.photonengine.com/fusion) | Actual network engine by Photon |
 | [Photon Pun 2](https://www.photonengine.com/pun) | Classic (legacy) network engine by Photon |
 | [DOTween](https://dotween.demigiant.com/) | Tweening and animation engine |
