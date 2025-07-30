@@ -1,7 +1,7 @@
 <h1 align="center">Dmitrii Vasiliev</h1>
 
 <p align="center">
-  Unity Developer | Python Developer
+  Unity Game Developer | Python Developer
 </p>
 
 ### :pencil2: Languages
