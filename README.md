@@ -16,7 +16,7 @@
 <p align="left">
   <a href="https://unity.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" width="50" /></a>
   <a href="https://www.blender.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" width="50" /></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" /></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="150" /></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" width="50" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" /></a>
 </p>
