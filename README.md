@@ -16,7 +16,7 @@
   <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 </p>
 
-### 🛠️ Tools
+### 🛠️ Technologies
 <p align="left">
   <a href="https://unity.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" width="50" /></a>
   <a href="https://www.blender.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" width="50" /></a>
