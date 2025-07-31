@@ -59,7 +59,7 @@
 ---
 
 ### 📫 Reach Me
-- **Telegram:** @thomas_in_the_dark
+- **Telegram:** [@thomas_in_the_dark](https://t.me/thomas_in_the_dark)
 - **Email:** d.vasilev.gamedev@gmail.com  
 
 ## Github Stats  
