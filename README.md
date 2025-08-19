@@ -4,6 +4,10 @@
   Unity Game Developer
 </p>
 
+### 📫 Reach Me
+- **Telegram:** [@thomas_in_the_dark](https://t.me/thomas_in_the_dark)
+- **Email:** d.vasilev.gamedev@gmail.com  
+
 :video_game: I've been developing games with Unity since 2022
 
 🐍 I've been working with Python since 2019
@@ -57,10 +61,6 @@
 | [Odin Inspector & Validator](https://odininspector.com) | Editor enhancements & validation |
 
 ---
-
-### 📫 Reach Me
-- **Telegram:** [@thomas_in_the_dark](https://t.me/thomas_in_the_dark)
-- **Email:** d.vasilev.gamedev@gmail.com  
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=NintendaDev&show_icons=true&count_private=true&hide_border=true" align="left" /></div>  
