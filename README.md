@@ -30,7 +30,8 @@ Python, FastAPI, PostgreSQL, Docker
 
 ### Community
 
-- [NintendaDev Channel](https://t.me/nintendadev_channel) - Telegram channel
+- [NintendaDev Channel](https://t.me/nintendadev_channel)
+- [Boosty](https://boosty.to/nintendadev)
 
 ### Contact
 
