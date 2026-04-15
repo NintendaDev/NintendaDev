@@ -37,3 +37,5 @@ Python, FastAPI, PostgreSQL, Docker
 
 - Telegram: [@nintendadev](https://t.me/nintendadev)
 - Email: d.vasilev.gamedev@gmail.com
+
+[![NintendaDev github stats](https://github-readme-stats-seven-beryl-92.vercel.app/api?username=NintendaDev)](https://github.com/anuraghazra/github-readme-stats)
