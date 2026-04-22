@@ -28,6 +28,10 @@ Photon Fusion 2, Photon Pun 2, Unity DOTS, Entitas
 **Backend**<br>
 Python, FastAPI, PostgreSQL, Docker
 
+### Official Sites
+- [NintendaDev](https://nintenda.dev)
+- [UniKit AI](https://unikit.nintenda.dev)
+
 ### Community
 
 - [NintendaDev Channel](https://t.me/nintendadev_channel)
@@ -37,5 +41,9 @@ Python, FastAPI, PostgreSQL, Docker
 
 - Telegram: [@nintendadev](https://t.me/nintendadev)
 - Email: d.vasilev.gamedev@gmail.com
+
+### Support
+- [Boosty](https://boosty.to/nintendadev)
+- [Ko-fi](https://ko-fi.com/nintendadev)
 
 [![NintendaDev github stats](https://github-readme-stats-seven-beryl-92.vercel.app/api?username=NintendaDev)](https://github.com/anuraghazra/github-readme-stats)
